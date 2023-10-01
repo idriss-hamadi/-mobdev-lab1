@@ -1,2 +1,3 @@
-# -mobdev-lab1
-just a normal lab
+# JavaTeamGUI
+
+For Java  Team GUI development for Desktop Applications
